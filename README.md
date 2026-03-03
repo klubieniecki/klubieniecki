@@ -1,6 +1,6 @@
 ## Hey, I'm Kyle 🏄🏻‍♂️
 
-# Hey, I'm Kyle 👋
+---
 
 **Product leader who ships code now.** 10+ years of B2B SaaS product leadership → taught myself to build with AI tools → haven't looked back.
 
