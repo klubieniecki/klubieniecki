@@ -23,5 +23,3 @@ I run [Fractions Studio](https://www.fractions.studio), where I help early-stage
 I spent a decade working alongside engineers without writing a line of code. AI tools changed that. Now I build prototypes, ship products, and teach other operators to do the same.
 
 If you're a founder figuring out what to build, or an operator learning how to build — let's talk.
-
-📫 [kyle@fractions.studio](mailto:kyle@fractions.studio) · 🌐 [kylelubieniecki.com](https://www.kylelubieniecki.com) · 🐦 [@kylelubieniecki](https://x.com/kylelubieniecki) · 💼 [LinkedIn](https://www.linkedin.com/in/kylelubieniecki)
