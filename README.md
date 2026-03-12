@@ -4,7 +4,7 @@
 
 **I'm a product leader that ships code.** 10+ years of B2B SaaS product leadership → taught myself to build with AI tools → haven't looked back.
 
-I run [Fractions Studio](https://www.fractions.studio), where I help early-stage companies find product-market fit through fractional product leadership and AI-native building. I'm also a Venture Builder at [FutureSight](https://futuresight.vc), a venture studio focused on building B2B AI companies.
+I run [Fractions Studio](https://www.fractions.studio), where I help early-stage companies find product-market fit through fractional product leadership and AI-native building. Currently working with [FutureSight](https://futuresight.vc), a venture studio focused on building B2B AI companies.
 
 ---
 
