@@ -1,25 +1,30 @@
-## Hey, I'm Kyle 🏄🏻‍♂️
+# Hi, I’m Kyle
 
----
+Product leader, designer and builder.
 
-**I'm a product leader that ships code.** 10+ years of B2B SaaS product leadership → taught myself to build with AI tools → haven't looked back.
+I’ve spent 10+ years building and scaling B2B products across fintech, edtech and platforms, from early-stage startups through IPO. My background spans new product development, product-market fit, growth and monetization.
 
-I run [Fractions Studio](https://www.fractions.studio), where I help early-stage companies find product-market fit through fractional product leadership and AI-native building. Currently working with [FutureSight](https://futuresight.vc), a venture studio focused on building B2B AI companies.
+I started [Fractions](https://www.fractions.studio/) in 2025 to bring product leadership, design and hands-on building to founders and growth teams. I’m now embedded with [FutureSight](https://futuresight.ventures/), working with founders to validate and build B2B AI ventures.
 
----
+I’m interested in agentic interfaces, systems that compound through automation, and AI evaluation that helps us understand whether a product actually works for people.
 
-### What I'm building
+## Selected projects
 
-🔧 **AI-native products** — From validation to working prototype, I continue to experiement with the latest modern dev tools to rapidly go from idea → shipped product.
+- **[Rapid Prototyping with AI](https://github.com/klubieniecki/rapidprototypingwithai)** — An interactive workshop deck on taking an idea to a testable prototype with AI tools.
+- **[Brium Board](https://github.com/klubieniecki/brium-board)** — A 3D-printable stencil for cutting a balance board from a single sheet of plywood. Some building happens away from a screen.
 
-📣 **[Better Operators](https://betteroperators.com)** — A publication and community helping non-technical operators become builders in the AI era.
+More independent projects, including Truffle and Reelhouse, are on [my website](https://www.kylelubieniecki.com/).
 
-🎓 **[Maven: AI Dev Stack for Operators](https://maven.com/p/c244ea/build-an-ai-development-stack-as-a-non-technical-operator)** — Teaching non-technical operators to understand and use modern AI development tools.
+## Selected open-source contributions
 
----
+- **[Printing Press Library](https://github.com/mvanhorn/printing-press-library/pull/1807)** — Contributed the Ashby CLI, giving agents read-only access to published job postings. Merged upstream.
 
-### The TL;DR
+## Writing and teaching
 
-I spent a decade working alongside engineers without writing a line of code. AI tools changed that. Now I build prototypes, ship products, and teach other operators to do the same.
+I share what I learn through [Better Operators](https://www.betteroperators.com/), a publication and community for operators building with AI.
 
-If you're a founder figuring out what to build, or an operator learning how to build — let's talk.
+I also teach practical AI development workflows, including [AI Dev Stack for Operators on Maven](https://maven.com/p/c244ea/build-an-ai-development-stack-as-a-non-technical-operator).
+
+## Find me
+
+[Website](https://www.kylelubieniecki.com/) · [LinkedIn](https://www.linkedin.com/in/kylelubieniecki/) · [Fractions](https://www.fractions.studio/)
